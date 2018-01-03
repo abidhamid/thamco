@@ -1,0 +1,5 @@
+enabled SSL
+enabled google sign in as extra security
+enabled extra fields as requirement at registration
+
+
